@@ -5,6 +5,9 @@
 
 /**** Escreva o código abaixo 👇******/
 
+function saudar(nome) {
+  console.log(`Olá ${nome}!`);
+};
 
 /**** Escreva o código acima ☝️******/
 
