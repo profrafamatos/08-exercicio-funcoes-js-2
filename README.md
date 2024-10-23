@@ -11,7 +11,7 @@ Bem-vindo ao exercício sobre **Funções** com JavaScript! 🎉 Siga as instru�
 Para começar, você deve clonar este repositório na sua máquina. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/SEU-USUARIOprofrafamatos/08-exercicio-funcoes-js-2.git
+git clone https://github.com/profrafamatos/08-exercicio-funcoes-js-2.git
 ```
 
 ### 2️⃣ - Navegar até a pasta do repositório 📂
